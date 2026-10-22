@@ -27,7 +27,7 @@ class Result
 
     public static int formingMagicSquare(List<List<int>> s)
     {
-        // The 8 valid 3x3 magic squares
+        //The 8 valid 3x3 magic squares
         int[][,] magicSquares = new int[][,]
         {
             new int[,] {{8, 1, 6}, {3, 5, 7}, {4, 9, 2}},
