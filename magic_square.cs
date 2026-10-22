@@ -1,3 +1,6 @@
+// Problem: Forming a Magic Square
+// Link: https://www.hackerrank.com/challenges/magic-square-forming/problem;
+
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Collections;
