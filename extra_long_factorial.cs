@@ -1,3 +1,6 @@
+// Problem: Extra Long Factorials
+// Link: https://www.hackerrank.com/challenges/extra-long-factorials/problem
+
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Collections;
