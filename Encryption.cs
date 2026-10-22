@@ -56,7 +56,7 @@ class Result
                     result.Append(s[index]);
                 }
             }
-            // Add a space after each column is processed
+            //Add a space after each column is processed
             result.Append(" ");
         }
 
